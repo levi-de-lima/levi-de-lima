@@ -1,13 +1,19 @@
-## Hi there 👋
-
-# Olá, eu sou o Levi! 👋
+## Olá, eu sou o Levi! 👋
 
 Sou estudante de Engenharia Civil-Aeronáutica no ITA e um entusiasta da Ciência de Dados, apaixonado por transformar dados em soluções inteligentes e eficientes.
 
 - 🎓 Cursando o 4º ano de Engenharia Civil-Aeronáutica no **Instituto Tecnológico de Aeronáutica (ITA)**.
 - 💡 Foco em **Machine Learning**, **Análise Exploratória de Dados (EDA)** e **Visualização de Dados para Storytelling**.
-- 🛰️ Atualmente trabalhando em um projeto de Iniciação Científica que utiliza **imagens de satélite e Python** para analisar a segurança aeroportuária.
+- 🛰️ Atualmente trabalhando em um projeto de Iniciação Científica que utiliza **imagens de satélite e Python** para analisar distúrbios florestais na Amazônia e no Cerrado.
 - 🌱 Aprofundando meus conhecimentos em **SQL avançado** e **Machine Learning**.
+
+---
+
+###  portfolio Meu Portfólio de Projetos
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| ☀️ **Análise de Desempenho de Inversores Solares** | Análise de dados de uma usina solar para detectar falhas em inversores e otimizar a manutenção, utilizando uma metodologia de desempenho relativo para identificar anomalias. | `Python`, `Pandas`, `Matplotlib`, `Seaborn` |
 
 ---
 
@@ -22,13 +28,7 @@ Sou estudante de Engenharia Civil-Aeronáutica no ITA e um entusiasta da Ciênci
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-[![Estatísticas de Levi no GitHub](https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-de-lima-0ab92026b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levidelima1234@gmail.com)
