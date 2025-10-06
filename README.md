@@ -9,11 +9,11 @@ Sou estudante de Engenharia Civil-Aeronáutica no ITA e um entusiasta da Ciênci
 
 ---
 
-###  portfolio Meu Portfólio de Projetos
+### 🎲 Meu Portfólio de Projetos
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| ☀️ **Análise de Desempenho de Inversores Solares** | Análise de dados de uma usina solar para detectar falhas em inversores e otimizar a manutenção, utilizando uma metodologia de desempenho relativo para identificar anomalias. | `Python`, `Pandas`, `Matplotlib`, `Seaborn` |
+| [☀️ **Análise de Desempenho de Inversores Solares**](https://github.com/levi-de-lima/solar-energy) | Análise de dados de uma usina solar para detectar falhas em inversores e otimizar a manutenção, utilizando uma metodologia de desempenho relativo para identificar anomalias. | `Python`, `Pandas`, `Matplotlib`, `Seaborn` |
 
 ---
 
