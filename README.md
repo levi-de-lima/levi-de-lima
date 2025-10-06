@@ -5,9 +5,9 @@
 Sou estudante de Engenharia Civil-Aeronáutica no ITA e um entusiasta da Ciência de Dados, apaixonado por transformar dados em soluções inteligentes e eficientes.
 
 - 🎓 Cursando o 4º ano de Engenharia Civil-Aeronáutica no **Instituto Tecnológico de Aeronáutica (ITA)**.
-- 💡 Foco em **Machine Learning**, **Pesquisa Operacional** e **Análise de Séries Temporais**.
+- 💡 Foco em **Machine Learning**, **Análise Exploratória de Dados (EDA)** e **Visualização de Dados para Storytelling**.
 - 🛰️ Atualmente trabalhando em um projeto de Iniciação Científica que utiliza **imagens de satélite e Python** para analisar a segurança aeroportuária.
-- 🌱 Estou sempre aprendendo mais sobre MLOps e desenvolvimento de software.
+- 🌱 Aprofundando meus conhecimentos em **SQL avançado** e **Machine Learning**.
 
 ---
 
