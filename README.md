@@ -5,7 +5,7 @@ Sou estudante de Engenharia Civil-Aeronáutica no ITA e um entusiasta da Ciênci
 - 🎓 Cursando o 4º ano de Engenharia Civil-Aeronáutica no **Instituto Tecnológico de Aeronáutica (ITA)**.
 - 💡 Foco em **Machine Learning**, **Análise Exploratória de Dados (EDA)** e **Visualização de Dados para Storytelling**.
 - 🛰️ Atualmente trabalhando em um projeto de Iniciação Científica que utiliza **imagens de satélite e Python** para analisar distúrbios florestais na Amazônia e no Cerrado.
-- 🌱 Aprofundando meus conhecimentos em **SQL avançado** e **Machine Learning**.
+- 🌱 Aprofundando meus conhecimentos em **SQL avançado** e **Inteligência Artificial**.
 
 ---
 
