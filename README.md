@@ -23,8 +23,6 @@ Sou estudante de Engenharia Civil-Aeronáutica no ITA e um entusiasta da Ciênci
 
 [**🔗 Acesse o Repositório de Amostras do Projeto**](https://github.com/AlbyDR/dedicado_Amostras)
 
----
-
 #### 🎯 Objetivo Central
 
 Desenvolver e aplicar algoritmos de **Inteligência Artificial** para a **detecção automática e em tempo quase real** de distúrbios, com foco nas regiões da Amazônia Legal Brasileira (ALB) e Cerrado.
