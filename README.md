@@ -19,13 +19,13 @@ Sou estudante de Engenharia Civil-Aeronáutica no ITA e um entusiasta da Ciênci
 
 ### 🛰️ Projeto DEDICADO
 
-**Sistema DEDICADO** é uma iniciativa robusta focada na **Detecção de Distúrbios Florestais com Algoritmos Desenvolvidos para Séries Temporais de Imagens de Observação da Terra**.
+**Sistema DEDICADO** é uma iniciativa robusta focada na **Detecção de Distúrbios Florestais com Algoritmos Desenvolvidos para Séries Temporais de Imagens de Observação da Terra**. Atualmente, participo desse projeto como bolsista em parceria com o INPE.
 
 [**🔗 Acesse o Repositório de Amostras do Projeto**](https://github.com/AlbyDR/dedicado_Amostras)
 
 #### 🎯 Objetivo Central
 
-Desenvolver e aplicar algoritmos de **Inteligência Artificial** para a **detecção automática e em tempo quase real** de distúrbios, com foco nas regiões da Amazônia Legal Brasileira (ALB) e Cerrado.
+Desenvolver e aplicar algoritmos para a **detecção automática e em tempo quase real** de distúrbios, com foco nas regiões da Amazônia Legal Brasileira (ALB) e Cerrado.
 
 Nosso trabalho utiliza padrões espaciais e temporais complexos para produzir **alertas florestais de alta acurácia**.
 
