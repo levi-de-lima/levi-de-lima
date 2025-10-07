@@ -17,6 +17,12 @@ Sou estudante de Engenharia Civil-Aeronáutica no ITA e um entusiasta da Ciênci
 
 ---
 
+### Atualmente trabalhando
+
+[projeto](https://github.com/AlbyDR/dedicado_Amostras)
+
+---
+
 ### 🔧 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
