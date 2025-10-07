@@ -36,7 +36,7 @@ Este projeto opera na interseção de diversas áreas de ponta, destacando-se:
 * **Monitoramento Ambiental** e **Sensoriamento Remoto**
 * **Big Data** e **Cubos de Dados Prontos para Análise (ARD)**
 * Análise de **Séries Temporais de Imagens de Satélites**
-* **Inteligência Artificial** e Algoritmos de Detecção Automática
+* Algoritmos de Detecção Automática
 
 ---
 
